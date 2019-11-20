@@ -3,11 +3,15 @@ This is a web app for your pet to have a vacation when you two is going for a va
 ## Authors
 ~Hillary Otieno
 ## Technologies used
-HTML
+The webpage has been created using basic html.
+## Contact details.
+you can email me at hillaryotieno646@gmail.com
+## Known Bugs
+Have not come across any bugs.
 ### License & copyright
 MIT License
 
-Copyright (c) [2019] [Moringa school]
+Copyright (c) [2019] [HILLARY OTIENO]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
